@@ -2,11 +2,11 @@
 
 ## Description
 
-Bootcamp course challenge to scout and refactor existing HTML code adding accessibility features to index file. 
+Bootcamp course challenge to scout and refactor existing HTML code adding accessibility features to index file. Also rework the CSS file for efficiency and make sure it follows the HTML semantic structure.
 
 Additional objectives of challenge: 
 
-- To train on maintaining repositories and version control 
+- Train on maintaining repositories and version control 
 - Learn git and deployment processes
 - Follow additional grading criteria to strengthen web development fundamentals
 
@@ -16,7 +16,7 @@ N/A
 
 ## Usage
 
-Interact with website using a screen reader, such as [NVDA](https://www.nvaccess.org/download/), to hear image descriptions read back to the user when cursor hovers over images.
+Interact with website using a screen reader, such as [NVDA](https://www.nvaccess.org/download/).
 
 ## Contributions
 
