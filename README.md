@@ -27,3 +27,9 @@ Repository is cloned from an existing github user account that was set up to pro
 ## License
 
 N/A
+
+#
+
+## Deployed Git Page Screenshot
+
+![Deployed module 01 challenge](./assets/images/mod01chaldeploy.PNG)
