@@ -16,7 +16,9 @@ N/A
 
 ## Usage
 
-Interact with website using a screen reader, such as [NVDA](https://www.nvaccess.org/download/).
+Here is a link to the deployed page: https://part-time-dan.github.io/mod01-chal-DanWilson/
+
+Interact with the website using a screen reader, such as [NVDA](https://www.nvaccess.org/download/), to experience the accessibility features.
 
 ## Contributions
 
